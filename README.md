@@ -9,4 +9,4 @@ This is a simple, responsive image slider designed to showcase beautiful wildlif
 - **Automatic Slide Transition**: The images automatically change every 4 seconds.
 - **Customizable**: You can easily replace the images and adjust the transition timing.
 
-..
+
